@@ -2,8 +2,8 @@ import Header from '../../components/Header'
 
 import HeaderImage from '../../images/banner.jpg'
 import StoryImage from '../../images/image2.jpg'
-import VisionImage from '../../images/image6.JPG'
-import MissionImage from '../../images/image24.jpeg'
+
+
 import './about.css'
 
 
@@ -21,7 +21,7 @@ const About = () => {
      <section className="about__story">
       <div className="container about__story-container">
         <div className="about__section-image">
-          <img src={StoryImage} alt="My story image" />
+          <img src={StoryImage} alt="My story" />
         </div>
         <div className="about__section-content">
           <h1>Career Overview</h1>

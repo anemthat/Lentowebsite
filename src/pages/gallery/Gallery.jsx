@@ -24,7 +24,7 @@ const Gallery = () => {
           images.map((image, index) =>{
 
             return <article key ={index}>
-              <img src={image} alt={'Gallery image ${index + 1}'} />
+              <img src={image} alt={`Gallery ${index + 1}`} />
             </article>
           })
         }
