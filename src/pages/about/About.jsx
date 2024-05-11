@@ -2,8 +2,8 @@ import Header from '../../components/Header'
 
 import HeaderImage from '../../images/banner.jpg'
 import StoryImage from '../../images/image2.jpg'
-import VisionImage from '../../images/image6.JPG'
-import MissionImage from '../../images/image24.jpeg'
+
+
 import './about.css'
 
 
